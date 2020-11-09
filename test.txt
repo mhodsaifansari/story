@@ -1,2 +1,4 @@
 asdfd
 conflicting line 
+line 2
+
